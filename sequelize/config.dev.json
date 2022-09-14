@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "u36wzd2jwg8lmkfjj7mg",
+    "password": "vckUUehnxWHQm44SkgZN",
+    "database": "bvvrpi1pli8pbakykxyy",
+    "port": 5850,
+    "host": "bvvrpi1pli8pbakykxyy-postgresql.services.clever-cloud.com",
+    "dialect": "postgres",
+    "ssl": true,
+    "migrationStorage": "sequelize",
+    "seederStorage": "sequelize"
+  }
+}
